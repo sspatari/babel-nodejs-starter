@@ -1,6 +1,6 @@
 # Babel Node.js Express Setup
 
-A starter pack for server side JavaScript applications using standards from ES2015, ES2016, ES2017. It uses Babel to compile from this standard to ES5
+A starter pack for server side JavaScript applications using standards from ES2015, ES2016, ES2017. It uses Babel to compile from this standard to ES5. This project used [express](https://expressjs.com/) framework
 
 ##Usage
 
