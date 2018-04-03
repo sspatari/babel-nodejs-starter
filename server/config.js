@@ -1,4 +1,4 @@
 let config = {
-    port: process.env.Port || 8000
+    port: process.env.PORT || 8000
 }
 export default config
